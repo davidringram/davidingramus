@@ -10,6 +10,8 @@ import WorkExperience from "../components/sections/WorkExperience.astro";
 import { work } from "../data/work";
 import Studies from "../components/sections/Studies.astro";
 import { studies } from "../data/studies";
+import Extracurriculars from "../components/sections/Extracurriculars.astro";
+import { extracurriculars } from "../data/extracurriculars";
 import Carousel from "../components/ui/carousel/Carousel.astro";
 import { logos } from "../data/logos";
 import ArrowSeparator from "../components/ui/separator/ArrowSeparator.astro";
@@ -63,6 +65,8 @@ import notionLogo from "../assets/logos/Notion-logo.svg";
         <SkillsSection title="Skills" skills={skills} />
         <ArrowSeparator />
         <Studies title="Studies" items={studies} />
+        <ArrowSeparator />
+        <Extracurriculars title="Extracurriculars" items={extracurriculars} />
         <ArrowSeparator />
         <WorkExperience title="Work Experience" items={work} />
         <GlowLineSeparator />
