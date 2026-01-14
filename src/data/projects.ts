@@ -1,8 +1,3 @@
-import GoogleAnalyticsIcon from '../assets/logos/GoogleAnalytics-logo.svg?raw';
-import PythonIcon from '../assets/logos/Python-logo.svg?raw';
-import TailwindIcon from '../assets/logos/Tailwind-logo.svg?raw';
-import HubspotIcon from '../assets/logos/Hubspot-logo.svg?raw';
-import MetaIcon from '../assets/logos/Meta-logo.svg?raw';
 
 
 export const projects = [
