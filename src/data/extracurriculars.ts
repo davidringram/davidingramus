@@ -55,7 +55,7 @@ export const extracurriculars = [
   },
   {
     title: "Desginated Marksman Course",
-    institution: "US Army. - 4ID Training",
+    institution: "United States Army",
     description:
       "Mastery of M14 Rifle, including qualification and maintenance.",
     tags: [
