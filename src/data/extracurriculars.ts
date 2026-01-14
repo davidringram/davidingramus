@@ -8,6 +8,7 @@ export const extracurriculars = [
       "Mastery of Google Analytics, including advanced reporting, audience analysis, and conversion optimization.",
     tags: [
       "Google Analytics",
+      "Data Collection",
     ],
   },
   {
@@ -18,6 +19,7 @@ export const extracurriculars = [
     tags: [
       "Google Ads",
       "PPC",
+      "SEM",
     ],
   },
   {
@@ -37,6 +39,7 @@ export const extracurriculars = [
       "Mastery of Python, including advanced reporting, audience analysis, and conversion optimization.",
     tags: [
       "Python",
+      "Data Types",
       "Data Science",
     ],
   },

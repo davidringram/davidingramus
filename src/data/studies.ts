@@ -6,12 +6,11 @@ export const studies = [
     description:
       "Mastery of business management, marketing strategies, and leadership, along with a solid foundation in operations, economics, decision making, finance, and accounting.",
     tags: [
-      "Marketing Management",
       "Management and Leadership",
-      "Economics",
-      "Finance",
-      "Accounting",
-      "Strategy"
+      "Marketing Management",
+      "Managerial Economics",
+      "Finance & Accounting",
+      "Operations & Strategy",
     ],
   },
   {
@@ -21,36 +20,39 @@ export const studies = [
       "Expanded knowledge of marketing analytics, brand management, marketing research, and ecommerce.",
     tags: [
       "Marketing Analytics",
+      "Multivariate Statistics",
       "Brand Management",
       "Marketing Research",
-      "Ecommerce",
+      "Ecommerce Management",
     ],
   },
   {
     title: "Advanced Certificate in Brand Strategy and Digital Marketing",
     institution: "Kellog Business School, Northwestern University",
     description:
-      "Focused on brand strategy, digital marketing, automation, analytics, attribution, and content marketing.",
+      "Focused on brand strategy, specifically portfolio design, growth, and defense, as well as digital marketing, automation, analytics, attribution, and content marketing.",
     tags: [
       "Brand Strategy",
+      "Portfolio Design",
       "Digital Marketing",
       "Automation and AI",
-      "Analytics",
-      "Content Marketing",
-      "Attribution",
+      "Customer Segmentation",
+      "Data & Analytics",
     ],
   },
   {
-    title: "Selected Extracurricular Courses & Certifications",
-    institution: "Assorted Educational Institutions",
+    title: "Multidisciplinary Undergraduate Studies",
+    institution: "Various Institutions",
     description:
-      "Salesforce Trailhead Mountaineer, HubSpot Inbound Marketing Certification, Google Analytics Certification, Google Ads Certification, and DataCamp Python Certification.",
+      "A diverse academic foundation spanning Creative Advertising (Art Direction, Copywriting), Media Production (Audio Engineering, Video), and Electrical Engineering (Digital Signal Processing, Computer Science).",
     tags: [
-      "Salesforce",
-      "HubSpot",
-      "Google Analytics",
-      "Google Ads",
-      "Python Programmer",
+      "Advertising",
+      "Brand Design",
+      "Art Direction",
+      "Copywriting",
+      "Audio Engineering",
+      "Video Production",
+      "Electrical Engineering",
     ],
   },
 
