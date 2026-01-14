@@ -54,7 +54,7 @@ export const extracurriculars = [
     ],
   },
   {
-    title: "Desginated Marksman Course",
+    title: "Designated Marksman Course",
     institution: "United States Army",
     description:
       "Mastery of M14 Rifle, including qualification and maintenance.",
