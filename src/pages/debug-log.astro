@@ -1,0 +1,34 @@
+---
+import { getCollection } from "astro:content";
+
+const posts = (await getCollection("blog")).sort(
+    (a, b) => +b.data.pubDate - +a.data.pubDate,
+);
+const [featured, ...rest] = posts;
+---
+
+<html>
+    <body>
+        <h1>Debug Log</h1>
+        <h2>Featured Post</h2>
+        <ul>
+            {
+                featured ? (
+                    <li>
+                        <strong>{featured.data.title}</strong> -{" "}
+                        {featured.data.pubDate.toString()} (ID: {featured.id})
+                        <br />
+                        Image Type: {typeof featured.data.heroImage}
+                        <br />
+                        Image Data:{" "}
+                        <pre>
+                            {JSON.stringify(featured.data.heroImage, null, 2)}
+                        </pre>
+                    </li>
+                ) : (
+                    <li>No featured post found</li>
+                )
+            }
+        </ul>
+    </body>
+</html>

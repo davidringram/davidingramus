@@ -4,7 +4,7 @@ description: 'Applying the SF Operational Detachment-A (SFODA) composition to a 
 pubDate: 'June 5, 2025'
 heroImage: '../../assets/images/blog-hero1.webp'
 category: 'Showcase'
-tags: ['writings']
+tags: ['Writings', 'Management', 'Marketing']
 ---
 
 Applying the SF Operational Detachment-A (SFODA) composition to a Modern Marketing Team (Written in 2019 | Updated 2024)

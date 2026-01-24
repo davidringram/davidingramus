@@ -4,7 +4,7 @@ description: 'Using analytics to ensure maximum employee efficiency and ROI for 
 pubDate: 'Apr 4, 2022'
 heroImage: '../../assets/images/dashboard_caseload.webp'
 category: 'Showcase'
-tags: ['case study']
+tags: ['Case Study', 'Management']
 ---
 
 ### Task: Create a dashboard for Attorney Caseload

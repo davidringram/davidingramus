@@ -4,7 +4,7 @@ description: 'Over my career as a marketer and creative, I have heard a lot of a
 pubDate: 'Jan 19, 2019'
 heroImage: '../../assets/images/blog-hero2.webp'
 category: 'Showcase'
-tags: ['writings']
+tags: ['Writings', 'Creative']
 ---
 
 Over my career as a marketer and creative, I have heard a lot of arguments against using stock photos. Frankly, I (mostly) agree with them, sure — sure there is a time when you have to (maybe even should) use stock photos, especially when deadlines approach and that landing page just needs to get done. But In general, I usually land in the “don’t use stock photos” camp.

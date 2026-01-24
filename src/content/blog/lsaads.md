@@ -4,7 +4,7 @@ description: 'Using analytics to ensure maximum employee efficiency and ROI for 
 pubDate: 'Dec 12, 2023'
 heroImage: '../../assets/images/lsa.jpg'
 category: 'Showcase'
-tags: ['case study']
+tags: ['Case Study', 'Marketing']
 ---
 
 ### Task: Increase LSA Ads Leads
