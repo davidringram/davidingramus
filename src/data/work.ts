@@ -11,6 +11,27 @@ export const workIcons = {
 
 export const work = [
   {
+    title: "Fraction CMO",
+    company: "David R. Ingram, fCMO",
+    region: "Various",
+    description:
+      "",
+    technologies: [
+      "Marketing Strategy",
+      "Brand Positioning",
+      "Marketing Intelligence",
+      "Consumer Research",
+      "Marketing Analytics",
+      "Demand Generation",
+      "RevOps & DataOps",
+      "Automation & AI",
+      "Marketing Engineering",
+      "Guerrilla & Asymmetric",
+      "Marketing Optimization",
+      "Management Consulting",
+    ],
+  },
+  {
     title: "Marketing Director",
     company: "Hale Injury Law",
     region: "Remote",
@@ -27,24 +48,6 @@ export const work = [
       "Social Media",
       "Database & CRM",
       "Events",
-    ],
-  },
-  {
-    title: "Marketing Director",
-    company: "ReCELLebrate",
-    region: "Remote",
-    description:
-      "",
-    technologies: [
-      "Marketing",
-      "Management",
-      "Strategy",
-      "Analytics",
-      "Branding",
-      "Content",
-      "Email",
-      "Events",
-      "Website & Landing Pages"
     ],
   },
   {
