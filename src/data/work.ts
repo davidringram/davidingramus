@@ -10,7 +10,7 @@ export const workIcons = {
 };
 
 export const work = [
-  {
+ /* {
     title: "Fraction CMO",
     company: "David R. Ingram, fCMO",
     region: "Various",
@@ -30,7 +30,7 @@ export const work = [
       "Marketing Optimization",
       "Management Consulting",
     ],
-  },
+  }, */
   {
     title: "Marketing Director",
     company: "Hale Injury Law",

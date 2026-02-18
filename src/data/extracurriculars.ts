@@ -54,6 +54,40 @@ export const extracurriculars = [
     ],
   },
   {
+    title: "BSA, Eagle Scout Rank",
+    institution: "Boy Scouts of America",
+    description:
+      "Mastered leadership and outdoorsmanship",
+    tags: [
+      "Leadership",
+      "Goal Setting",
+      "Outdoorsmanship",
+      "Navigation",
+    ],
+  },
+   {
+    title: "ACE L4 Canyon Rescue",
+    institution: "Association of Canyoneering Education",
+    description:
+      "rescue people",
+    tags: [
+      "Calm Under Pressure",
+      "Rescue Qualified",
+      "Technical Ropework",
+    ],
+  },
+   {
+    title: "Advanced Open Water Diver",
+    institution: "Scuba Schools International",
+    description:
+      "Mastery of M14 Rifle, including qualification and maintenance.",
+    tags: [
+      "Calm Under Pressure",
+      "Recreational Scuba",
+      "Confidence Building",
+    ],
+  },
+   {
     title: "Designated Marksman Course",
     institution: "United States Army",
     description:
