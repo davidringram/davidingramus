@@ -30,19 +30,13 @@ Bridging the gap between high-level brand strategy and full-stack technical mark
 ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
 
 **Marketing & Ads**
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E3742F?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-FF9900?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
 **Creative Operations & Content Production**
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=001E36)
-![Pro Tools](https://img.shields.io/badge/Pro_Tools-000000?style=for-the-badge&logo=avid&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white) ![Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
 
 ---
 
