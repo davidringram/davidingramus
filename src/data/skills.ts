@@ -5,7 +5,7 @@ export const skills = [
     description: "Marketing Planning, Go-To-Market Strategy, and Traditional Marketing.",
   },
   {
-    icon: "ri-braces-line",
+    icon: "ri-flag-line",
     title: "Brand Strategy",
     description: "Brand Positioning, Brand Management, Brand Messaging, and Brand Voice.",
   },
@@ -29,7 +29,7 @@ export const skills = [
     title: "Digital Marketing",
     description: "SEO, SEM, Programmatic Ads, Social Media Marketing, and Content Marketing.",
   },{
-    icon: "ri-seo-line",
+    icon: "ri-window-line",
     title: "Conversion Optimization",
     description: "Landing Pages, Funnel Design, A/B Testing, Astro/Tailwind/Alpine, and CI/CD.",
   },
@@ -44,7 +44,7 @@ export const skills = [
     description: "Design, Visual Storytelling, Audio/Video Production, and Brand Identity.",
   },
   {
-    icon: "ri-kanban-view",
+    icon: "ri-shake-hands-line",
     title: "Management",
     description: "Leadership, Team Management, Project Management, Economics, and Strategy.",
   },
