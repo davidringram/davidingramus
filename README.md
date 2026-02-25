@@ -46,7 +46,7 @@ I write about the intersection of military tactics and marketing strategy at [da
 
 - **Marketing Strategy:** Marketing Planning, Go-To-Market Strategy, and Traditional Marketing.
 - **Marketing Operations:** RevOps, CRM, Databases, API, Data Engineering, MarTech, Automation, and AI.
-- **Marketing Analytics:** Reports & Dashboard, Forecasting, Market Research, Data Analysis, and Machine Learning.
+- **Marketing Analytics:** Reports & Dashboard, Forecasting, Research, Analysis, and Machine Learning.
 - **Digital Marketing:** SEO, SEM, Programmatic Ads, Social Media Marketing, and Content Marketing
 - **Unconventional Marketing:** Guerrilla, Stunt, Viral, Street, Interactive, Experiental, and Stealth Marketing.
 - **Creative Direction:** Design, Visual Storytelling, Audio/Video Production, and Brand Identity.
@@ -59,7 +59,8 @@ I write about the intersection of military tactics and marketing strategy at [da
 
 ### 🎓 Qualifications & Directives
 
-- **MBA & Advanced Certificate:** Marketing Analytics & Brand Management (Empire State - SUNY).
+- **Master of Business Administration (MBA):** California Polytechnic State University, Pomona.
+- **Advanced Certificate:** Marketing Analytics & Brand Management (Empire State - SUNY).
 - **In Progress:** Advanced Certificate in Digital Marketing & Brand Strategy (Kellogg, Northwestern).
 - **Combat Veteran:** 20+ years of leadership and strategic planning experience.
 
