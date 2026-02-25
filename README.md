@@ -9,19 +9,40 @@ Bridging the gap between high-level brand strategy and full-stack technical mark
 ### 🛡 The Armory
 
 **Strategic Intel & Analytics**
-![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Deployment & Design**
 ![Astro](https://img.shields.io/badge/Astro-BC3910?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 **Infrastructure & Ops**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=zsh&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
+
+**Marketing & Ads**
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E3742F?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-FF9900?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+
+**Creative Operations & Content Production**
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=001E36)
+![Pro Tools](https://img.shields.io/badge/Pro_Tools-000000?style=for-the-badge&logo=avid&logoColor=white)
 
 ---
 
