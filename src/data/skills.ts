@@ -2,12 +2,17 @@ export const skills = [
   {
     icon: "ri-road-map-line",
     title: "Marketing Strategy",
-    description: "Marketing Planning, Go-To-Market Strategy, and Traditional Marketing.",
+    description: "Comprehensive GTM strategies and integrated marketing roadmaps designed to scale operations and maximize ROI across all channels.",
+  },
+  {
+    icon: "ri-shake-hands-line",
+    title: "Business Management",
+    description: "High-stakes project management and team leadership, bridging the gap between economic strategy and front-line execution.",
   },
   {
     icon: "ri-flag-line",
-    title: "Brand Strategy",
-    description: "Brand Positioning, Brand Management, Brand Messaging, and Brand Voice.",
+    title: "Branding Strategy",
+    description: "Brand Positioning, Brand Management, and Brand Development.",
   },
   {
     icon: "ri-code-s-slash-line",
@@ -17,7 +22,7 @@ export const skills = [
   {
     icon: "ri-pie-chart-line",
     title: "Marketing Analytics",
-    description: "Reports & Dashboard, Forecasting, Market Research, Data Analysis, and Machine Learning.",
+    description: "Reports & Dashboard, Forecasting, Research, and Machine Learning.",
   },
   {
     icon: "ri-megaphone-line",
@@ -28,10 +33,16 @@ export const skills = [
     icon: "ri-seo-line",
     title: "Digital Marketing",
     description: "SEO, SEM, Programmatic Ads, Social Media Marketing, and Content Marketing.",
-  },{
+  },
+  {
+    icon: "ri-advertisement-line",
+    title: "Traditional Marketing",
+    description: "Outdoor Advertising, Broadcast, Print, Events, EDDM, and Direct Mail.",
+  },
+  {
     icon: "ri-window-line",
     title: "Conversion Optimization",
-    description: "Landing Pages, Funnel Design, A/B Testing, Astro/Tailwind/Alpine, and CI/CD.",
+    description: "Landing Pages, Funnel Design, A/B Testing, Astro.js, Tailwind CSS, Alpine.js, and CI/CD.",
   },
   {
     icon: "ri-brain-2-line",
@@ -43,11 +54,7 @@ export const skills = [
     title: "Creative Direction",
     description: "Design, Visual Storytelling, Audio/Video Production, and Brand Identity.",
   },
-  {
-    icon: "ri-shake-hands-line",
-    title: "Management",
-    description: "Leadership, Team Management, Project Management, Economics, and Strategy.",
-  },
+  
 ];
 
 export type Skill = (typeof skills)[number];

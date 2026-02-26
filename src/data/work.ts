@@ -47,7 +47,6 @@ export const work = [
       "Website & Landing Pages",
       "Social Media",
       "Database & CRM",
-      "Events",
     ],
   },
   {
