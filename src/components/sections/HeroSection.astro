@@ -7,7 +7,8 @@ interface Cta {
 
 interface Props {
   title: string;
-  subtitle?: string;
+  subtitle?:  string;
+  desc?: string;
   showCTA?: boolean;
   primaryCTA?: Cta;
   secondaryCTA?: Cta;
@@ -16,6 +17,7 @@ interface Props {
 const {
   title,
   subtitle,
+  desc,
   showCTA = false,
   primaryCTA,
   secondaryCTA
@@ -28,8 +30,10 @@ const {
       <span class="bg-gradient-to-r from-[var(--accent)] to-[var(--accent-dark)] bg-clip-text text-transparent">{title}</span>
     </h1>
     {subtitle && (
-      <p class="mt-4 text-lg md:text-xl text-[color:var(--color-text-secondary)] max-w-2xl mx-auto">
+      <h3 class="mt-4 text-lg md:text-xl text-[color:var(--color-text-secondary)] mx-auto">
         {subtitle}
+      </h3><p class="mt-4 text-lg md:text-xl text-[color:var(--color-text-secondary)] max-w-xl mx-auto">
+        {desc}
       </p>
     )}
     {showCTA && (primaryCTA || secondaryCTA) && (
