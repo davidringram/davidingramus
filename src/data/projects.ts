@@ -1,6 +1,21 @@
 
 export const projects = [
 
+		{
+		title: "Custom Client Leads Dashboard",
+		techStack: "Astro.js | Tailwind CSS | SQL | Analytics",
+		description: "Using Astro.js with SQL/Supabase, a custom build dashbaord was created to track lead information, unit economics, leads source, and pipelines. ",
+		ctaText: "See the Dashboard Source Code",
+		ctaLink: "https://github.com/davidringram/dimc-dashboard-template",
+
+	},	{
+		title: "Custom Astro/Tailwind/Alpine Landing Page",
+		techStack: "Astro.js | Tailwind CSS | Alpine.js | PostHog",
+		description: "Custom built landing page using Astro.js, Tailwind CSS, Alpine.js, and PostHog, which is optimized for conversion, speed, and A/B testing.",
+		ctaText: "View the Landing Page Souce Code",
+		ctaLink: "https://github.com/davidringram/astro-master-lp",
+
+	},
 	{
 		title: "Incease Leads During Downturn",
 		techStack: "Google LSA",
