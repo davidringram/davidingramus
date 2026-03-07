@@ -17,27 +17,27 @@ export const studies = [
     title: "Advanced Certificate in Marketing Analytics and Brand Management",
     institution: "SUNY, Empire State College",
     description:
-      "Expanded knowledge of marketing analytics, brand management, marketing research, and ecommerce.",
+      "Expanded knowledge of marketing analytics, brand management, marketing research, and conversion optimization..",
     tags: [
       "Marketing Analytics",
       "Multivariate Statistics",
       "Brand Management",
       "Marketing Research",
-      "Ecommerce Management",
+      "E-commerce Management",
     ],
   },
   {
     title: "Advanced Certificate in Brand Strategy and Digital Marketing",
-    institution: "Kellog Business School, Northwestern University",
+    institution: "Kellogg School of Management, Executive Education",
     description:
-      "Focused on brand strategy, specifically portfolio design, growth, and defense, as well as digital marketing, automation, analytics, attribution, and content marketing.",
+      "Dual certificate program: 'Digital Marketing Strategies: Data, Automation, AI & Anlaytics' and 'Strategies That Build Winning Brands.'",
     tags: [
       "Brand Strategy",
-      "Portfolio Design",
       "Digital Marketing",
       "Automation and AI",
       "Customer Segmentation",
       "Data & Analytics",
+      "Content Marketing",
     ],
   },
   {
